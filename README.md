@@ -1,8 +1,6 @@
 # Financial-Model-Of-Marico-ltd.-Company
 Financial Model Of Marico Company
-
 This comprehensive financial model provides insights into the performance and valuation of Marico Company. The model includes the following key components:-
-
 One Page Company Profile
 Dupont Analysis
 Historical Financial Statements
